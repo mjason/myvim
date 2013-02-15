@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/jay1/develop/bysj/bclass/app'
+let g:netrw_dirhist_2='/Users/jay1/develop/bysj/bclass/app/models'
+let g:netrw_dirhist_3='/Users/jay1/develop/bysj/bclass/app'
+let g:netrw_dirhist_4='/Users/jay1/develop/bysj/bclass/app/assets'
+let g:netrw_dirhist_5='/Users/jay1/develop/bysj/bclass/app/assets/javascripts'
